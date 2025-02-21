@@ -1,0 +1,6 @@
+{
+  "name": "full-stack-qaytarish-",
+  "workspaces": [
+    "apps/*"
+  ]
+}
